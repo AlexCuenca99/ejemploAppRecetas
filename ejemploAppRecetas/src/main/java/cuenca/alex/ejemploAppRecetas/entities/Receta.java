@@ -45,8 +45,6 @@ public class Receta {
         return foto;
     }
 
- 
-
     public void setFoto(UUID foto) {
         this.foto = foto;
     }    
